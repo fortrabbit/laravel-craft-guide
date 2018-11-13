@@ -11,7 +11,7 @@ When I started with the outline, I noticed quickly this would be a huge effort f
 
 * Intro
 * Craft Bootstrapping
-* ServiceProvider vs Plugin class
+* [ServiceProvider vs Plugin class](chapters/ServiceProvider-vs-Plugin-class.md)
 * Container 
 * Config
 * Events
